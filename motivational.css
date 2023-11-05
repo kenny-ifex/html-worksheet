@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+.main{
+    width: 700px;
+    height: 200px;
+    object-position: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.chet{
+    width: 300px;
+    margin-bottom: 0px;
+}
+.second{
+    width: 300px
+}
+.laf{
+    text-transform: uppercase;
+    color: yellow;
+    text-align: center;
+    margin-bottom: 0px;
+
+}
+.las{
+    color: aliceblue;
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
